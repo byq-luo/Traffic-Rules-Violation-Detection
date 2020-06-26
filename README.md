@@ -1,5 +1,5 @@
 # Traffic Rules Violation Detection with Computer Vision
-> Primary release
+> Primary release.
 
 :star: Please star this project. It helps a lot.
 
